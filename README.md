@@ -146,34 +146,34 @@
           ></path></svg></a
       >Education:
     </h2>
-    <ul dir="auto">
+        <ul dir="auto">
       <li>
-        Programming in JavaScript (<a
+        <a
           href="https://stepik.org/cert/1736186"
-          target="_blank"
-          >certificate</a
-        >).
+          target="_blank" style="text-decoration: none;"
+          >Programming in JavaScript</a
+        >
       </li>
       <li>
-        Algorithms: theory and practice (<a
+        <a
           href="https://stepik.org/cert/924516"
-          target="_blank"
-          >certificate</a
-        >).
+          target="_blank" style="text-decoration: none;"
+          >Algorithms: theory and practice</a
+        >
       </li>
       <li>
-        Python: Basics and Applying (<a
+        <a
           href="https://stepik.org/cert/901370"
-          target="_blank"
-          >certificate</a
-        >).
+          target="_blank" style="text-decoration: none;"
+          >Python: Basics and Applying</a
+        >
       </li>
       <li>
-        Programming in Python (<a
+        <a
           href="https://stepik.org/cert/376748"
-          target="_blank"
-          >certificate</a
-        >).
+          target="_blank" style="text-decoration: none;"
+          >Programming in Python</a
+        >
       </li>
     </ul>
     <h2 dir="auto">
@@ -196,12 +196,12 @@
           ></path></svg></a
       >English B2 (B2+ in progress)
     </h2>
-    <!-- <ul dir="auto">
+    <ul dir="auto">
       <li>
-        <a href="https://www.efset.org/cert/" rel="nofollow"
-          >EF SET English Certificate 71/100 (C1 Advanced)</a
+        <a href="https://www.efset.org/cert/9j7gMM" rel="nofollow" style="text-decoration: none;"
+          >EF SET English Certificate 70/100 (C1 Advanced)</a
         >
       </li>
-    </ul> -->
+    </ul>
   </article>
 </div>
