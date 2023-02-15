@@ -46,17 +46,7 @@
         <a
           href="https://www.linkedin.com/in/sergey-chikunov-656946262/"
           rel="nofollow"
-          >sergey-chikunov</a
-        >
-      </li>
-      <li>
-        <strong>GitHub:</strong>
-        <a href="https://github.com/hapikus">hapikus</a>
-      </li>
-      <li>
-        <strong>CodeWars:</strong>
-        <a href="https://www.codewars.com/users/hapikus" rel="nofollow"
-          >hapikus</a
+          >Sergey Chikunov</a
         >
       </li>
       <li>
