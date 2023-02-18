@@ -79,7 +79,7 @@
       <li>CSS</li>
       <li>SASS / SCSS</li>
       <li>JavaScript / TypeScript</li>
-      <li>React 16.8+ / FC / CC</li>
+      <li>React 18.0+ / FC / CC</li>
       <li>Python</li>
       <li>Git / GitHub / VS Code</li>
       <li>Figma / Photoshop</li>
