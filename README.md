@@ -6,14 +6,14 @@
 - __Telegram:__ [@hapikus][telegram]
 
 ## Skills: ##
-- HTML
-- CSS
-- SASS / SCSS
-- JavaScript / TypeScript
+- CSS / SASS / SCSS
+- TypeScript / JavaScript
 - React 16.8+ / FC / CC
+- Node.js
+- Express.js
+- MongoDB, Mongoose
+- JSON Web Tokens, Nodemailer, Swagger
 - Python
-- Git / GitHub / VS Code
-- Figma / Photoshop
 
 ## CodeWars: ##
   
