@@ -13,6 +13,7 @@
 - Express.js
 - MongoDB, Mongoose
 - JSON Web Tokens, Nodemailer, Swagger
+- Puppeteer
 - Python
 
 ## CodeWars: ##
