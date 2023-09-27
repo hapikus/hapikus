@@ -22,6 +22,7 @@
 
 ## Education: ##
 
+- [RS SCHOOL JAVASCRIPT/FRONT-END 2023Q1][THE ROLLING SCOPES SCHOOL]
 - [Programming in JavaScript][Stepic JS]
 - [Algorithms: theory and practice][Stepic Algorithms]
 - [Python: Basics and Applying][Stepic Python base]
@@ -37,6 +38,7 @@
 [CodeWars badge]: https://www.codewars.com/users/hapikus/badges/large
 [Codewars link]: https://www.codewars.com/users/hapikus
 
+[THE ROLLING SCOPES SCHOOL]: https://app.rs.school/certificate/0unlmqtr
 [Stepic JS]: https://stepik.org/cert/1736186
 [Stepic Algorithms]: https://stepik.org/cert/924516
 [Stepic Python base]: https://stepik.org/cert/901370
