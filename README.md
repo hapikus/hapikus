@@ -1,24 +1,22 @@
 # Front-end Developer #
 
+[![wakatime][Wakatime badge]][Wakatime link] [![Codewars profile][CodeWars badge]][Codewars link]
+
 ## Contact Information: ##
 
 - __LinkedIn:__ [Sergey Chikunov][linkedin]
 - __Telegram:__ [@hapikus][telegram]
 
 ## Skills: ##
-- CSS / SASS / SCSS
 - TypeScript / JavaScript
 - React 16.8+ / FC / CC
-- Node.js
-- Express.js
-- MongoDB, Mongoose
-- JSON Web Tokens, Nodemailer, Swagger
-- Puppeteer
+- Node.js, Express.js, MongoDB, Mongoose
+- JSON Web Tokens, Nodemailer, Swagger, Puppeteer
 - Python
 
-## CodeWars: ##
+## Leetcode: ##
   
-[![Codewars profile][CodeWars badge]][Codewars link]
+[![Leetcode Stats][Leetcode badge]][Leetcode link]
 
 ## Education: ##
 
@@ -35,8 +33,14 @@
 [linkedin]: https://www.linkedin.com/in/sergey-chikunov-656946262/
 [telegram]: https://t.me/hapikus
 
-[CodeWars badge]: https://www.codewars.com/users/hapikus/badges/large
+[CodeWars badge]: https://www.codewars.com/users/hapikus/badges/micro
 [Codewars link]: https://www.codewars.com/users/hapikus
+
+[Leetcode badge]: https://leetcard.jacoblin.cool/hapikus?border=2&radius=20
+[Leetcode link]: https://leetcode.com/hapikus
+
+[Wakatime badge]: https://wakatime.com/badge/user/f56d23b8-92b0-4a1f-9d4b-315dd4254204.svg
+[Wakatime link]: https://wakatime.com/@f56d23b8-92b0-4a1f-9d4b-315dd4254204
 
 [THE ROLLING SCOPES SCHOOL]: https://app.rs.school/certificate/0unlmqtr
 [Stepic JS]: https://stepik.org/cert/1736186
