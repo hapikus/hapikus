@@ -1,6 +1,6 @@
 # Front-end Developer #
 
-[![wakatime][Wakatime badge]][Wakatime link] [![Codewars profile][CodeWars badge]][Codewars link]
+[![wakatime][Wakatime badge]][Wakatime link]
 
 ## Contact Information: ##
 
@@ -14,9 +14,11 @@
 - JSON Web Tokens, Nodemailer, Swagger, Puppeteer
 - Python
 
-## Leetcode: ##
-  
+## Online coding platform: ##
+ 
 [![Leetcode Stats][Leetcode badge]][Leetcode link]
+
+[![Codewars Stats][CodeWars badge additional]][Codewars link]
 
 ## Education: ##
 
@@ -33,7 +35,8 @@
 [linkedin]: https://www.linkedin.com/in/sergey-chikunov-656946262/
 [telegram]: https://t.me/hapikus
 
-[CodeWars badge]: https://www.codewars.com/users/hapikus/badges/micro
+[CodeWars badge official site]: https://www.codewars.com/users/hapikus/badges/micro
+[CodeWars badge additional]: https://github.r2v.ch/codewars?user=hapikus&name=true&hide_clan=true&stroke=%23BB432C
 [Codewars link]: https://www.codewars.com/users/hapikus
 
 [Leetcode badge]: https://leetcard.jacoblin.cool/hapikus?border=2&radius=20
